@@ -1,0 +1,26 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+ // Defining a variable
+
+ h1 {
+  font-size: 40px;
+  font-style: light;
+}
+h2 {
+  font-size: 30px;
+  font-weight: light;
+}
+p{
+  font-size: 30px;
+  font-style: italic
+}
+.question{
+  border-left: 10px solid #DDDDDD;
+  height: 150px;
+}
+.answer{
+  border-left: 10px solid #DDDDDD;
+  height: 150px;
+  background: #FFFFFF;
+}
